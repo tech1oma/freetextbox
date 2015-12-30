@@ -1,0 +1,1 @@
+FreeTextBox is a fully-featured web-based (X)HTML editor written in JavaScript on top of the Prototype library. It supports all major browsers (IE6+, FF1+, Safaru 2+, Opera 9+) and has an extensive JavaScript API for AJAX interaction. It is usable in all server and client side environments (ASP.NET, ASP, PHP, CF, JSP, Ruby, etc.)
